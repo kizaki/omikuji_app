@@ -41,6 +41,15 @@ class _MyHomePageState extends State<MyHomePage> {
     return new Scaffold(
       appBar: AppBar(title: Text(widget.title)),
       body: new Stack(children: <Widget>[
+
+        new Container(
+          decoration: new BoxDecoration(
+            image: new DecorationImage(
+              image: new AssetImage("images/haikei.png"),
+              fit: BoxFit.cover,
+            ),
+          ),
+        ),
         new Image.asset(
           "$imageName",
           //fit: BoxFit.fitHeight, // 縦幅を画面に合わせる
