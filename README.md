@@ -1,4 +1,4 @@
-# omikuji_app
+# おみくじアプリケーション
 
 A new Flutter application.
 
