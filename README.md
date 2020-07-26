@@ -1,6 +1,6 @@
-# おみくじアプリケーション
+# おみくじアプリ
 
-A new Flutter application.
+授業用の「おみくじアプリ」（Kotlin, Java）版をFlutterで移植。
 
 ## Getting Started
 
